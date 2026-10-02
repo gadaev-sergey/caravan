@@ -1,7 +1,7 @@
 {
   "project": "Караван · Пески рассвета",
   "projectId": "caravan-sands-of-dawn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engineSDK": 1,
   "base": "./",
   "scenes": [
@@ -29,10 +29,10 @@
   ],
   "assets": [],
   "files": [
-    "assets/index-C0H1WpA1.js",
-    "assets/style-Cfzso9PY.css",
+    "assets/index-GdNmHxAt.js",
+    "assets/style-BXd3iQiN.css",
     "index.html"
   ],
-  "builtAt": "2026-10-02T13:09:58.207Z",
+  "builtAt": "2026-10-02T13:12:24.804Z",
   "requirements": "WebGL2, ES2022, static HTTP server"
 }
