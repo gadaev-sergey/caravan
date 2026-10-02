@@ -1,0 +1,38 @@
+{
+  "project": "Караван · Пески рассвета",
+  "projectId": "caravan-sands-of-dawn",
+  "version": "1.0.0",
+  "engineSDK": 1,
+  "base": "./",
+  "scenes": [
+    {
+      "id": "oasis",
+      "name": "Лазурный оазис",
+      "path": "scenes/oasis.scene.json"
+    },
+    {
+      "id": "canyon",
+      "name": "Красные скалы",
+      "path": "scenes/canyon.scene.json"
+    },
+    {
+      "id": "citadel",
+      "name": "Врата рассвета",
+      "path": "scenes/citadel.scene.json"
+    }
+  ],
+  "modules": [
+    {
+      "id": "caravan",
+      "version": 1
+    }
+  ],
+  "assets": [],
+  "files": [
+    "assets/index-C0H1WpA1.js",
+    "assets/style-Cfzso9PY.css",
+    "index.html"
+  ],
+  "builtAt": "2026-10-02T13:09:58.207Z",
+  "requirements": "WebGL2, ES2022, static HTTP server"
+}
